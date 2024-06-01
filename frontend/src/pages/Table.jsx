@@ -31,7 +31,7 @@ const Table = () => {
           setIsLoading(false);
         }
       } else {
-        navigate("/login");
+        navigate("/");
       }
     };
 
